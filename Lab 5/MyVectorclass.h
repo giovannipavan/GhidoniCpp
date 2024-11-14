@@ -1,5 +1,7 @@
 #ifndef MYVECTORCLASS_H
 #define MYVECTORCLASS_H
+
+
 #include <iostream>
 
 class MyVector{
